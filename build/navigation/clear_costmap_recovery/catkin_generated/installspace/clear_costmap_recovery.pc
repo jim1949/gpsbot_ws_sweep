@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: clear_costmap_recovery
+Description: Description of clear_costmap_recovery
+Version: 1.12.13
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/install/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib -lclear_costmap_recovery
+Requires: costmap_2d nav_core pluginlib roscpp tf

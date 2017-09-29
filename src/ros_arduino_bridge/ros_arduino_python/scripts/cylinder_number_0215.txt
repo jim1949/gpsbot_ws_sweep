@@ -1,0 +1,347 @@
+0 1 2 3 
+cylinder number: 1
+0 1 2 3 
+cylinder number: 2
+0 1 2 3 
+cylinder number: 3
+0 1 2 3 
+cylinder number: 4
+0 1 2 3 
+cylinder number: 5
+0 1 2 3 
+cylinder number: 6
+0 1 2 3 
+cylinder number: 7
+0 1 2 3 
+cylinder number: 8
+0 1 2 3 
+cylinder number: 9
+0 1 2 3 
+cylinder number: 10
+0 1 2 3 
+cylinder number: 11
+0 1 2 3 
+cylinder number: 12
+0 1 2 3 
+cylinder number: 13
+0 1 2 3 
+cylinder number: 14
+0 1 2 3 
+cylinder number: 15
+0 1 2 3 
+cylinder number: 16
+0 1 2 3 
+cylinder number: 17
+0 1 2 3 
+cylinder number: 18
+0 1 2 3 
+cylinder number: 19
+0 1 2 3 
+cylinder number: 20
+0 1 2 3 
+cylinder number: 21
+0 1 2 3 
+cylinder number: 22
+0 1 2 3 
+cylinder number: 23
+0 1 2 3 
+cylinder number: 24
+0 1 2 3 
+cylinder number: 25
+0 1 2 3 
+cylinder number: 26
+0 1 2 3 
+cylinder number: 27
+0 1 2 3 
+cylinder number: 28
+0 1 2 3 
+cylinder number: 29
+0 1 2 3 
+cylinder number: 30
+0 1 2 3 
+cylinder number: 31
+0 1 2 3 
+cylinder number: 32
+0 1 2 3 
+cylinder number: 33
+0 1 2 3 
+cylinder number: 34
+0 1 2 3 
+cylinder number: 35
+0 1 2 3 
+cylinder number: 36
+0 1 2 3 
+cylinder number: 37
+0 1 2 3 
+cylinder number: 38
+0 1 2 3 
+cylinder number: 39
+0 1 2 3 
+cylinder number: 40
+0 1 2 3 
+cylinder number: 41
+0 1 2 3 
+cylinder number: 42
+0 1 2 3 
+cylinder number: 43
+0 1 2 3 
+cylinder number: 44
+0 1 2 3 
+cylinder number: 45
+0 1 2 3 
+cylinder number: 46
+0 1 2 3 
+cylinder number: 47
+0 1 2 3 
+cylinder number: 48
+0 1 2 3 
+cylinder number: 49
+0 1 2 3 
+cylinder number: 50
+0 1 2 3 
+cylinder number: 51
+0 1 2 3 
+cylinder number: 52
+0 1 2 3 
+cylinder number: 53
+0 1 2 3 
+cylinder number: 54
+0 1 2 3 
+cylinder number: 55
+0 1 2 3 
+cylinder number: 56
+0 1 2 3 
+cylinder number: 57
+0 1 2 3 
+cylinder number: 58
+0 1 2 3 
+cylinder number: 59
+0 1 2 3 
+cylinder number: 60
+0 1 2 3 
+cylinder number: 61
+0 1 2 3 
+cylinder number: 62
+0 1 2 3 
+cylinder number: 63
+0 1 2 3 
+cylinder number: 64
+0 1 2 3 
+cylinder number: 65
+0 1 2 3 
+cylinder number: 66
+0 1 2 3 
+cylinder number: 67
+0 1 2 3 
+cylinder number: 68
+0 1 2 3 
+cylinder number: 69
+0 1 2 3 
+cylinder number: 70
+0 1 2 3 
+cylinder number: 71
+0 1 2 3 
+cylinder number: 72
+0 1 2 3 
+cylinder number: 73
+0 1 2 3 
+cylinder number: 74
+0 1 2 3 
+cylinder number: 75
+0 1 2 3 
+cylinder number: 76
+0 1 2 3 
+cylinder number: 77
+0 1 2 3 
+cylinder number: 78
+0 1 2 3 
+cylinder number: 79
+0 1 2 3 
+cylinder number: 80
+0 1 2 3 
+cylinder number: 81
+0 1 2 3 
+cylinder number: 82
+0 1 2 3 
+cylinder number: 83
+0 1 2 3 
+cylinder number: 84
+0 1 2 3 
+cylinder number: 85
+0 1 2 3 
+cylinder number: 86
+0 1 2 3 
+cylinder number: 87
+0 1 2 3 
+cylinder number: 88
+0 1 2 3 
+cylinder number: 89
+0 1 2 3 
+cylinder number: 90
+0 1 2 3 
+cylinder number: 91
+0 1 2 3 
+cylinder number: 92
+0 1 2 3 
+cylinder number: 93
+0 1 2 3 
+cylinder number: 94
+0 1 2 3 
+cylinder number: 95
+0 1 2 3 
+cylinder number: 96
+0 1 2 3 
+cylinder number: 97
+0 1 2 3 
+cylinder number: 98
+0 1 2 3 
+cylinder number: 99
+0 1 2 3 
+cylinder number: 100
+0 1 2 3 
+cylinder number: 101
+0 1 2 3 
+cylinder number: 102
+0 1 2 3 
+cylinder number: 103
+0 1 2 3 
+cylinder number: 104
+0 1 2 3 
+cylinder number: 105
+0 1 2 3 
+cylinder number: 106
+0 1 2 3 
+cylinder number: 107
+0 1 2 3 
+cylinder number: 108
+0 1 2 3 
+cylinder number: 109
+0 1 2 3 
+cylinder number: 110
+0 1 2 3 
+cylinder number: 111
+0 1 2 3 
+cylinder number: 112
+0 1 2 3 
+cylinder number: 113
+0 1 2 3 
+cylinder number: 114
+0 1 2 3 
+cylinder number: 115
+0 1 2 3 
+cylinder number: 116
+0 1 2 3 
+cylinder number: 117
+0 1 2 3 
+cylinder number: 118
+0 1 2 3 
+cylinder number: 119
+0 1 2 3 
+cylinder number: 120
+0 1 2 3 
+cylinder number: 121
+0 1 2 3 
+cylinder number: 122
+0 1 2 3 
+cylinder number: 123
+0 1 2 3 
+cylinder number: 124
+0 1 2 3 
+cylinder number: 125
+0 1 2 3 
+cylinder number: 126
+0 1 2 3 
+cylinder number: 127
+0 1 2 3 
+cylinder number: 128
+0 1 2 3 
+cylinder number: 129
+0 1 2 3 
+cylinder number: 130
+0 1 2 3 
+cylinder number: 131
+0 1 2 3 
+cylinder number: 132
+0 1 2 3 
+cylinder number: 133
+0 1 2 3 
+cylinder number: 134
+0 1 2 3 
+cylinder number: 135
+0 1 2 3 
+cylinder number: 136
+0 1 2 3 
+cylinder number: 137
+0 1 2 3 
+cylinder number: 138
+0 1 2 3 
+cylinder number: 139
+0 1 2 3 
+cylinder number: 140
+0 1 2 3 
+cylinder number: 141
+0 1 2 3 
+cylinder number: 142
+0 1 2 3 
+cylinder number: 143
+0 1 2 3 
+cylinder number: 144
+0 1 2 3 
+cylinder number: 145
+0 1 2 3 
+cylinder number: 146
+0 1 2 3 
+cylinder number: 147
+0 1 2 3 
+cylinder number: 148
+0 1 2 3 
+cylinder number: 149
+0 1 2 3 
+cylinder number: 150
+0 1 2 3 
+cylinder number: 151
+0 1 2 3 
+cylinder number: 152
+0 1 2 3 
+cylinder number: 153
+0 1 2 3 
+cylinder number: 154
+0 1 2 3 
+cylinder number: 155
+0 1 2 3 
+cylinder number: 156
+0 1 2 3 
+cylinder number: 157
+0 1 2 3 
+cylinder number: 158
+0 1 2 3 
+cylinder number: 159
+0 1 2 3 
+cylinder number: 160
+0 1 2 3 
+cylinder number: 161
+0 1 2 3 
+cylinder number: 162
+0 1 2 3 
+cylinder number: 163
+0 1 2 3 
+cylinder number: 164
+0 1 2 3 
+cylinder number: 165
+0 1 2 3 
+cylinder number: 166
+0 1 2 3 
+cylinder number: 167
+0 1 2 3 
+cylinder number: 168
+0 1 2 3 
+cylinder number: 169
+0 1 2 3 
+cylinder number: 170
+0 1 2 3 
+cylinder number: 171
+0 1 2 3 
+cylinder number: 172
+0 1 2 3 
+cylinder number: 173
+0 

@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: amcl
+Description: Description of amcl
+Version: 1.12.13
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/install/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib -lamcl_sensors -lamcl_map -lamcl_pf
+Requires: rosbag roscpp dynamic_reconfigure tf

@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: dwa_local_planner
+Description: Description of dwa_local_planner
+Version: 1.12.13
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/install/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib -ldwa_local_planner
+Requires: dynamic_reconfigure pluginlib roscpp

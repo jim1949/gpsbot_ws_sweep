@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: move_base
+Description: Description of move_base
+Version: 1.12.13
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/install/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib 
+Requires: roscpp dynamic_reconfigure

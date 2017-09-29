@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/devel
+
+Name: urdf_tutorial
+Description: Description of urdf_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/relaybot/gpsbot_ws_sweep/devel/lib 
+Requires: 

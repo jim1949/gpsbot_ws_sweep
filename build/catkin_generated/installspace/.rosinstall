@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/relaybot/gpsbot_ws_sweep/install/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/devel
+
+Name: fake_localization
+Description: Description of fake_localization
+Version: 1.12.13
+Cflags: 
+Libs: -L/home/relaybot/gpsbot_ws_sweep/devel/lib 
+Requires: roscpp rospy

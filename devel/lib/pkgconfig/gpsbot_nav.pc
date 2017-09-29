@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/devel
+
+Name: gpsbot_nav
+Description: Description of gpsbot_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/relaybot/gpsbot_ws_sweep/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/devel
+
+Name: rbx1_vision
+Description: Description of rbx1_vision
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/relaybot/gpsbot_ws_sweep/devel/lib 
+Requires: 

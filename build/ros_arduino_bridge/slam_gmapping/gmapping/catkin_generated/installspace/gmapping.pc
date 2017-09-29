@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: gmapping
+Description: Description of gmapping
+Version: 1.3.8
+Cflags: 
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib 
+Requires: 

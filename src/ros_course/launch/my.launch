@@ -1,0 +1,10 @@
+<launch>
+	<group ns="bob">
+		<include file="$(find ros_course)/launch/myturtle.launch"/>
+	</group>
+	<group ns="margaret">
+		<param name="turtle1/turtle_speed" value="0.3" />
+		<include file="$(find ros_course)/launch/myturtle.launch"/>
+	</group>
+</launch>
+

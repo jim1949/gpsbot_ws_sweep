@@ -1,0 +1,9 @@
+<launch>
+	<group ns="bob">
+		<node name="turtle1" pkg="turtlesim" type="turtlesim_node" />
+	</group>
+	<node name="control1" pkg="ros_course" type="naming.py">
+		<remap from="/turtle1/cmd_vel" to="/bob/turtle1/cmd_vel" />
+	</node>
+</launch>
+

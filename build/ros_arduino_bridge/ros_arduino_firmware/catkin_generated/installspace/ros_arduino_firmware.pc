@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: ros_arduino_firmware
+Description: Description of ros_arduino_firmware
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib 
+Requires: 

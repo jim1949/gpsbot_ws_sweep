@@ -1,0 +1,7 @@
+<launch>
+	<group ns="bob">
+		<node name="turtle2" pkg="turtlesim" type="turtlesim_node" />
+		<node name="control2" pkg="ros_course" type="naming.py" />
+	</group>
+</launch>
+

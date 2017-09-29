@@ -1,0 +1,13 @@
+<launch>
+  <!-- ros arduino bridge launch-->
+  <include file="$(find ros_arduino_python)/launch/demo.launch"/>
+
+  <include file="$(find gpsbot_description)/launch/gpsbot_description.launch"/>
+
+  <include file="$(find dashgo_nav)/launch/include/odom/teb_move_base.launch"/>
+<!--
+  <include file="$(find world_canvas_server)/launch/world_canvas_server.launch"/>
+-->
+  <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/>
+  <node name="robot_pose_publisher" pkg="robot_pose_publisher" type="robot_pose_publisher" />
+</launch>

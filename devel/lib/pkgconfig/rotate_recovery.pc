@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/devel
+
+Name: rotate_recovery
+Description: Description of rotate_recovery
+Version: 1.12.13
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/src/navigation/rotate_recovery/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/devel/lib -lrotate_recovery
+Requires: roscpp pluginlib

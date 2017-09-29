@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/install
+
+Name: turtlebot_calibration
+Description: Description of turtlebot_calibration
+Version: 2.3.7
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/install/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/install/lib 
+Requires: std_msgs message_runtime

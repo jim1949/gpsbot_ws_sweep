@@ -1,0 +1,8 @@
+prefix=/home/relaybot/gpsbot_ws_sweep/devel
+
+Name: openslam_gmapping
+Description: Description of openslam_gmapping
+Version: 0.1.2
+Cflags: -I/home/relaybot/gpsbot_ws_sweep/src/ros_arduino_bridge/openslam_gmapping/include
+Libs: -L/home/relaybot/gpsbot_ws_sweep/devel/lib -lgridfastslam -lscanmatcher -lsensor_base -lsensor_range -lsensor_odometry -lutils
+Requires: 
